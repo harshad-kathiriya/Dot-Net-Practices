@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fj5/nbiW40bzQ91cV5C17fwPsj9YjYpS2cunT+LSpb/Ak8W1jMT3Bkx6uKB26eHICpM7dwUGv8v4DcH3x/fEKw==",
+  "success": true,
+  "projectFilePath": "G:\\OnGoingProject\\DOT Net Project\\Dotnet Interview Prepartions\\Repos\\DotnetPractices\\DotnetPractice.Common\\DotnetPractice.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Harshad\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Harshad\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

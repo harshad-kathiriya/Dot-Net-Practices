@@ -1,0 +1,13 @@
+G:\OnGoingProject\DOT Net Project\Dotnet Interview Prepartions\Repos\DotnetPractices\DotnetPractice.Operators\bin\Debug\netcoreapp3.1\DotnetPractice.Operators.exe
+G:\OnGoingProject\DOT Net Project\Dotnet Interview Prepartions\Repos\DotnetPractices\DotnetPractice.Operators\bin\Debug\netcoreapp3.1\DotnetPractice.Operators.deps.json
+G:\OnGoingProject\DOT Net Project\Dotnet Interview Prepartions\Repos\DotnetPractices\DotnetPractice.Operators\bin\Debug\netcoreapp3.1\DotnetPractice.Operators.runtimeconfig.json
+G:\OnGoingProject\DOT Net Project\Dotnet Interview Prepartions\Repos\DotnetPractices\DotnetPractice.Operators\bin\Debug\netcoreapp3.1\DotnetPractice.Operators.runtimeconfig.dev.json
+G:\OnGoingProject\DOT Net Project\Dotnet Interview Prepartions\Repos\DotnetPractices\DotnetPractice.Operators\bin\Debug\netcoreapp3.1\DotnetPractice.Operators.dll
+G:\OnGoingProject\DOT Net Project\Dotnet Interview Prepartions\Repos\DotnetPractices\DotnetPractice.Operators\bin\Debug\netcoreapp3.1\DotnetPractice.Operators.pdb
+G:\OnGoingProject\DOT Net Project\Dotnet Interview Prepartions\Repos\DotnetPractices\DotnetPractice.Operators\obj\Debug\netcoreapp3.1\DotnetPractice.Operators.csprojAssemblyReference.cache
+G:\OnGoingProject\DOT Net Project\Dotnet Interview Prepartions\Repos\DotnetPractices\DotnetPractice.Operators\obj\Debug\netcoreapp3.1\DotnetPractice.Operators.AssemblyInfoInputs.cache
+G:\OnGoingProject\DOT Net Project\Dotnet Interview Prepartions\Repos\DotnetPractices\DotnetPractice.Operators\obj\Debug\netcoreapp3.1\DotnetPractice.Operators.AssemblyInfo.cs
+G:\OnGoingProject\DOT Net Project\Dotnet Interview Prepartions\Repos\DotnetPractices\DotnetPractice.Operators\obj\Debug\netcoreapp3.1\DotnetPractice.Operators.csproj.CoreCompileInputs.cache
+G:\OnGoingProject\DOT Net Project\Dotnet Interview Prepartions\Repos\DotnetPractices\DotnetPractice.Operators\obj\Debug\netcoreapp3.1\DotnetPractice.Operators.dll
+G:\OnGoingProject\DOT Net Project\Dotnet Interview Prepartions\Repos\DotnetPractices\DotnetPractice.Operators\obj\Debug\netcoreapp3.1\DotnetPractice.Operators.pdb
+G:\OnGoingProject\DOT Net Project\Dotnet Interview Prepartions\Repos\DotnetPractices\DotnetPractice.Operators\obj\Debug\netcoreapp3.1\DotnetPractice.Operators.genruntimeconfig.cache

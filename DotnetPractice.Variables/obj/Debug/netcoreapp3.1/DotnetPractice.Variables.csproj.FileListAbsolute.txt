@@ -1,0 +1,13 @@
+G:\OnGoingProject\DOT Net Project\Dotnet Interview Prepartions\Repos\DotnetPractices\DotnetPractice.Variables\obj\Debug\netcoreapp3.1\DotnetPractice.Variables.csprojAssemblyReference.cache
+G:\OnGoingProject\DOT Net Project\Dotnet Interview Prepartions\Repos\DotnetPractices\DotnetPractice.Variables\obj\Debug\netcoreapp3.1\DotnetPractice.Variables.AssemblyInfoInputs.cache
+G:\OnGoingProject\DOT Net Project\Dotnet Interview Prepartions\Repos\DotnetPractices\DotnetPractice.Variables\obj\Debug\netcoreapp3.1\DotnetPractice.Variables.AssemblyInfo.cs
+G:\OnGoingProject\DOT Net Project\Dotnet Interview Prepartions\Repos\DotnetPractices\DotnetPractice.Variables\obj\Debug\netcoreapp3.1\DotnetPractice.Variables.csproj.CoreCompileInputs.cache
+G:\OnGoingProject\DOT Net Project\Dotnet Interview Prepartions\Repos\DotnetPractices\DotnetPractice.Variables\bin\Debug\netcoreapp3.1\DotnetPractice.Variables.exe
+G:\OnGoingProject\DOT Net Project\Dotnet Interview Prepartions\Repos\DotnetPractices\DotnetPractice.Variables\bin\Debug\netcoreapp3.1\DotnetPractice.Variables.deps.json
+G:\OnGoingProject\DOT Net Project\Dotnet Interview Prepartions\Repos\DotnetPractices\DotnetPractice.Variables\bin\Debug\netcoreapp3.1\DotnetPractice.Variables.runtimeconfig.json
+G:\OnGoingProject\DOT Net Project\Dotnet Interview Prepartions\Repos\DotnetPractices\DotnetPractice.Variables\bin\Debug\netcoreapp3.1\DotnetPractice.Variables.runtimeconfig.dev.json
+G:\OnGoingProject\DOT Net Project\Dotnet Interview Prepartions\Repos\DotnetPractices\DotnetPractice.Variables\bin\Debug\netcoreapp3.1\DotnetPractice.Variables.dll
+G:\OnGoingProject\DOT Net Project\Dotnet Interview Prepartions\Repos\DotnetPractices\DotnetPractice.Variables\bin\Debug\netcoreapp3.1\DotnetPractice.Variables.pdb
+G:\OnGoingProject\DOT Net Project\Dotnet Interview Prepartions\Repos\DotnetPractices\DotnetPractice.Variables\obj\Debug\netcoreapp3.1\DotnetPractice.Variables.dll
+G:\OnGoingProject\DOT Net Project\Dotnet Interview Prepartions\Repos\DotnetPractices\DotnetPractice.Variables\obj\Debug\netcoreapp3.1\DotnetPractice.Variables.pdb
+G:\OnGoingProject\DOT Net Project\Dotnet Interview Prepartions\Repos\DotnetPractices\DotnetPractice.Variables\obj\Debug\netcoreapp3.1\DotnetPractice.Variables.genruntimeconfig.cache

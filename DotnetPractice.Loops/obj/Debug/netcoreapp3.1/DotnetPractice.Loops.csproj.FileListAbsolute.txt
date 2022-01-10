@@ -1,0 +1,13 @@
+G:\OnGoingProject\DOT Net Project\Dotnet Interview Prepartions\Repos\DotnetPractices\DotnetPractice.Loops\obj\Debug\netcoreapp3.1\DotnetPractice.Loops.csprojAssemblyReference.cache
+G:\OnGoingProject\DOT Net Project\Dotnet Interview Prepartions\Repos\DotnetPractices\DotnetPractice.Loops\obj\Debug\netcoreapp3.1\DotnetPractice.Loops.AssemblyInfoInputs.cache
+G:\OnGoingProject\DOT Net Project\Dotnet Interview Prepartions\Repos\DotnetPractices\DotnetPractice.Loops\obj\Debug\netcoreapp3.1\DotnetPractice.Loops.AssemblyInfo.cs
+G:\OnGoingProject\DOT Net Project\Dotnet Interview Prepartions\Repos\DotnetPractices\DotnetPractice.Loops\obj\Debug\netcoreapp3.1\DotnetPractice.Loops.csproj.CoreCompileInputs.cache
+G:\OnGoingProject\DOT Net Project\Dotnet Interview Prepartions\Repos\DotnetPractices\DotnetPractice.Loops\bin\Debug\netcoreapp3.1\DotnetPractice.Loops.exe
+G:\OnGoingProject\DOT Net Project\Dotnet Interview Prepartions\Repos\DotnetPractices\DotnetPractice.Loops\bin\Debug\netcoreapp3.1\DotnetPractice.Loops.deps.json
+G:\OnGoingProject\DOT Net Project\Dotnet Interview Prepartions\Repos\DotnetPractices\DotnetPractice.Loops\bin\Debug\netcoreapp3.1\DotnetPractice.Loops.runtimeconfig.json
+G:\OnGoingProject\DOT Net Project\Dotnet Interview Prepartions\Repos\DotnetPractices\DotnetPractice.Loops\bin\Debug\netcoreapp3.1\DotnetPractice.Loops.runtimeconfig.dev.json
+G:\OnGoingProject\DOT Net Project\Dotnet Interview Prepartions\Repos\DotnetPractices\DotnetPractice.Loops\bin\Debug\netcoreapp3.1\DotnetPractice.Loops.dll
+G:\OnGoingProject\DOT Net Project\Dotnet Interview Prepartions\Repos\DotnetPractices\DotnetPractice.Loops\bin\Debug\netcoreapp3.1\DotnetPractice.Loops.pdb
+G:\OnGoingProject\DOT Net Project\Dotnet Interview Prepartions\Repos\DotnetPractices\DotnetPractice.Loops\obj\Debug\netcoreapp3.1\DotnetPractice.Loops.dll
+G:\OnGoingProject\DOT Net Project\Dotnet Interview Prepartions\Repos\DotnetPractices\DotnetPractice.Loops\obj\Debug\netcoreapp3.1\DotnetPractice.Loops.pdb
+G:\OnGoingProject\DOT Net Project\Dotnet Interview Prepartions\Repos\DotnetPractices\DotnetPractice.Loops\obj\Debug\netcoreapp3.1\DotnetPractice.Loops.genruntimeconfig.cache
