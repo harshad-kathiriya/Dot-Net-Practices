@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\OnGoingProject\\DOT Net Project\\Dotnet Interview Prepartions\\Repos\\DotnetPractices\\DotnetPractice.Exceptions\\DotnetPractice.Exceptions.csproj",
+      "projectUniqueName": "G:\\OnGoingProject\\DOT Net Project\\Dotnet Interview Prepartions\\Repos\\Dot-Net-Practices\\DotnetPractice.Exceptions\\DotnetPractice.Exceptions.csproj",
       "projectName": "DotnetPractice.Exceptions",
-      "projectPath": "G:\\OnGoingProject\\DOT Net Project\\Dotnet Interview Prepartions\\Repos\\DotnetPractices\\DotnetPractice.Exceptions\\DotnetPractice.Exceptions.csproj",
+      "projectPath": "G:\\OnGoingProject\\DOT Net Project\\Dotnet Interview Prepartions\\Repos\\Dot-Net-Practices\\DotnetPractice.Exceptions\\DotnetPractice.Exceptions.csproj",
       "packagesPath": "C:\\Users\\Harshad\\.nuget\\packages\\",
-      "outputPath": "G:\\OnGoingProject\\DOT Net Project\\Dotnet Interview Prepartions\\Repos\\DotnetPractices\\DotnetPractice.Exceptions\\obj\\",
+      "outputPath": "G:\\OnGoingProject\\DOT Net Project\\Dotnet Interview Prepartions\\Repos\\Dot-Net-Practices\\DotnetPractice.Exceptions\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
