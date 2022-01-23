@@ -27,7 +27,6 @@ namespace DotnetPractice.Loops
             }
 
             // break and continue
-            int counter = 20;
             for(int j=0; j<20; j++) {
                 if(j==15) {
                     break;

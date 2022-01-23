@@ -1,0 +1,11 @@
+Mutable	                Amortized	Worst Case	            Immutable	                        Complexity
+Stack<T>.Push	        O(1)	    O(n)	                ImmutableStack<T>.Push	            O(1)
+Queue<T>.Enqueue	    O(1)	    O(n)	                ImmutableQueue<T>.Enqueue	        O(1)
+List<T>.Add	            O(1)	    O(n)	                ImmutableList<T>.Add	            O(log n)
+List<T>.Item[Int32]	    O(1)	    O(1)	                ImmutableList<T>.Item[Int32]	    O(log n)
+List<T>.Enumerator	    O(n)	    O(n)	                ImmutableList<T>.Enumerator	        O(n)
+HashSet<T>.Add, lookup	O(1)	    O(n)	                ImmutableHashSet<T>.Add	            O(log n)
+SortedSet<T>.Add	    O(log n)	O(n)	                ImmutableSortedSet<T>.Add	        O(log n)
+Dictionary<T>.Add	    O(1)	    O(n)	                ImmutableDictionary<T>.Add	        O(log n)
+Dictionary<T> lookup	O(1)	    O(1) – or strictly O(n)	ImmutableDictionary<T> lookup	    O(log n)
+SortedDictionary<T>.Add	O(log n)	O(n log n)	            ImmutableSortedDictionary<T>.Add	O(log n)

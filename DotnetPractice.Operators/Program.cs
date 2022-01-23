@@ -7,8 +7,7 @@ namespace DotnetPractice.Operators
         static void Main(string[] args)
         {
            int x=10, y = 20;
-           string a="abc", b="xyz";
-
+       
            Console.WriteLine((x+y)/x);     
            Console.WriteLine(x*y);
            Console.WriteLine(y/x);
