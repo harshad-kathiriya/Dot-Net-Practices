@@ -1,2 +1,2 @@
 # Dot-Net-Practices
-Creating this repository for overall understanding of Dot Net framework using C# language. 
+Created this repository for practice of Dot Net framework using C#. 
